@@ -248,8 +248,8 @@ class ImageTransfer:
         
         
 #define path to images
-style_image_path = "/home/marla/Documents/Pictures/dali.jpg"
-content_image_path = "/home/marla/Documents/Pictures/louvre.jpg"
+style_image_path = ""
+content_image_path = ""
 
 #set up layers to use for content and style - choose and change layers to see impact
 #on output image
